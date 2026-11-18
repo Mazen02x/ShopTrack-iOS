@@ -1,0 +1,7 @@
+xcuserdata/
+DerivedData/
+build/
+
+.DS_Store
+
+node_modules/
